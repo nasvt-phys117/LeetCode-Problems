@@ -1,0 +1,15 @@
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\bin\Debug\net8.0\RemoveElement27.exe
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\bin\Debug\net8.0\RemoveElement27.deps.json
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\bin\Debug\net8.0\RemoveElement27.runtimeconfig.json
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\bin\Debug\net8.0\RemoveElement27.dll
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\bin\Debug\net8.0\RemoveElement27.pdb
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.AssemblyInfoInputs.cache
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.AssemblyInfo.cs
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.csproj.CoreCompileInputs.cache
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.sourcelink.json
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.dll
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\refint\RemoveElement27.dll
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.pdb
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\RemoveElement27.genruntimeconfig.cache
+C:\Users\nasos\Desktop\leetcode\arrays\RemoveElement27\obj\Debug\net8.0\ref\RemoveElement27.dll
