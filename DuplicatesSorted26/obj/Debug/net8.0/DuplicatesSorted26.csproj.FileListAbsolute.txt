@@ -1,0 +1,15 @@
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.AssemblyInfoInputs.cache
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.AssemblyInfo.cs
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.csproj.CoreCompileInputs.cache
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.sourcelink.json
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\bin\Debug\net8.0\DuplicatesSorted26.exe
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\bin\Debug\net8.0\DuplicatesSorted26.deps.json
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\bin\Debug\net8.0\DuplicatesSorted26.runtimeconfig.json
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\bin\Debug\net8.0\DuplicatesSorted26.dll
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\bin\Debug\net8.0\DuplicatesSorted26.pdb
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.dll
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\refint\DuplicatesSorted26.dll
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.pdb
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\DuplicatesSorted26.genruntimeconfig.cache
+C:\Users\nasos\Desktop\leetcode\arrays\DuplicatesSorted26\obj\Debug\net8.0\ref\DuplicatesSorted26.dll

@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "C#: DuplicateSorted26",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\DuplicateSorted26\\DuplicateSorted26.csproj"
+        },
+        
+        {
+            "name": "C#: MergeSortedArray88",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MergeSortedArray88\\MergeSortedArray88.csproj",
+            "launchConfigurationId": "TargetFramework=;MergeSortedArray88"
+        }
+    ]
+}
